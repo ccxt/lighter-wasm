@@ -11,7 +11,7 @@ Check how to set it up here: https://github.com/ccxt/ccxt/wiki/FAQ#how-to-use-th
 Example
 
 ```Javascript
-lighter = ccxt.lighter({
+lighter = new ccxt.lighter({
 	'options': {
 		'libraryPath': '/user/cjg/Git/lighter-wasm/lighter.wasm',
 		'wasmExecPath': '/opt/homebrew/opt/go/libexec/lib/wasm/wasm_exec.js'
