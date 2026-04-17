@@ -1,5 +1,5 @@
 # lighter binaries
-Lighter Wasm required for working with Lighter in JS/TS and regular binaries in PY/PHP/CS/GO
+Lighter Wasm required for working with Lighter in JS/TS and regular binaries in PY/PHP/CS
 
 Compiled directly from https://github.com/elliottech/lighter-go
 
