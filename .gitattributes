@@ -1,0 +1,5 @@
+*.so  binary
+*.wasm binary
+*.o   binary
+*.dll binary
+*.dylib binary
