@@ -1,5 +1,5 @@
-# lighter-wasm
-Lighter Wasm required for working with Lighter in JS/TS
+# lighter binaries
+Lighter Wasm required for working with Lighter in JS/TS and regular binaries in PY/PHP/CS/GO
 
 Compiled directly from https://github.com/elliottech/lighter-go
 
@@ -18,5 +18,7 @@ lighter = new ccxt.lighter({
 	}
 })
 ```
+
+Binaries can also be donwloaded here: https://github.com/elliottech/lighter-python/tree/main/lighter/signers
 
 If you need help or encounter any difficulties during the process, the CCXT team is ready to assist you.
