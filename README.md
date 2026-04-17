@@ -22,7 +22,7 @@ lighter = new ccxt.lighter({
 Example Python/C#/PHP
 
 ```Javascript
-lighter = new ccxt.lighter({
+lighter = ccxt.lighter({
 	'options': {
 		'libraryPath': '/Users/cjg/Git/ccxt12/lighter-signer-darwin-arm64.dylib,
 	}
